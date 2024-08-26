@@ -1,4 +1,4 @@
-# EN - MySQL-To-Redis-PHP
+# (EN) Copy MySQL Database to Redis Database
 
 This project includes a PHP script that transfers tables and data from a MySQL database to a Redis database. This script allows you to fetch data from MySQL and write it to Redis. 🛠️
 
@@ -77,7 +77,7 @@ crontab -l
 
 This project is licensed under the MIT License. For more details, please refer to the LICENSE file.
 
-# TR - MySQL-To-Redis-PHP
+# (TR) MySQL Veritabanını Redis Veritabanına Kopyalama
 
 Bu proje, MySQL veritabanındaki tablo ve verileri Redis veritabanına aktaran bir PHP scripti içerir. Bu script, MySQL'den veri çekip Redis'e yazmanızı sağlar. 🛠️
 
